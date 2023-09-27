@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Nahuelitho/practico-api-react/static/css/main.073c9b0a.css",
-    "main.js": "/Nahuelitho/practico-api-react/static/js/main.e36ba942.js",
-    "static/js/787.67613df9.chunk.js": "/Nahuelitho/practico-api-react/static/js/787.67613df9.chunk.js",
-    "static/media/logo.svg": "/Nahuelitho/practico-api-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Nahuelitho/practico-api-react/index.html",
-    "main.073c9b0a.css.map": "/Nahuelitho/practico-api-react/static/css/main.073c9b0a.css.map",
-    "main.e36ba942.js.map": "/Nahuelitho/practico-api-react/static/js/main.e36ba942.js.map",
-    "787.67613df9.chunk.js.map": "/Nahuelitho/practico-api-react/static/js/787.67613df9.chunk.js.map"
+    "main.css": "/practico-api-react/static/css/main.073c9b0a.css",
+    "main.js": "/practico-api-react/static/js/main.5a5dd59a.js",
+    "static/js/787.67613df9.chunk.js": "/practico-api-react/static/js/787.67613df9.chunk.js",
+    "static/media/logo.svg": "/practico-api-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practico-api-react/index.html",
+    "main.073c9b0a.css.map": "/practico-api-react/static/css/main.073c9b0a.css.map",
+    "main.5a5dd59a.js.map": "/practico-api-react/static/js/main.5a5dd59a.js.map",
+    "787.67613df9.chunk.js.map": "/practico-api-react/static/js/787.67613df9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e36ba942.js"
+    "static/js/main.5a5dd59a.js"
   ]
 }
