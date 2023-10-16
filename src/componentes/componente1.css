@@ -1,0 +1,10 @@
+#lateral{
+    display: grid;
+    grid-column: 1;
+    grid-row: 2;
+    border: solid 1px black;
+    height: 1100px;
+    width: 500px;
+    background-color: red;
+    
+}
